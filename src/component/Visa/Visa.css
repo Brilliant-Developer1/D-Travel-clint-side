@@ -1,0 +1,18 @@
+.visa-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url(../../img/visa.jpg);
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+.visa-text {
+  text-align: center;
+  padding: 220px 0px;
+  color: white;
+}
+.hero-text a {
+  text-decoration: none;
+  color: white;
+}
